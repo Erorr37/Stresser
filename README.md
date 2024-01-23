@@ -1,0 +1,2 @@
+# Stresser
+Sok iye
