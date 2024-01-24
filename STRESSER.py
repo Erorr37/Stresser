@@ -2,6 +2,7 @@
 
 import os
 import time
+import socket
 
 os.system("clear")
 
@@ -12,8 +13,19 @@ print (" |  _ <   | |   / /_   / /_   ___) |   | |   |  _ <  | |___   ___) |  __
 print (" |_| \_\ |___| /____| /____| |____/    |_|   |_| \_\ |_____| |____/  |____/  |_____| |_| \_\ ")
 print (" Tools : V2     By : @Rizz371")                                                                                            
 coa = input("    target  : ")
-coa = input("    Time  : ")
-coa = input("    port  : ")
-coa = input("    Token  : ")
+wo = input("    Time  : ")
+qf = input("    port  : ")
+cb = input("    Token  : ")
 print ("------------------------------------")
-print ("\033[35m    connection ends ")
+print ("\033[93m[ STATUS WEB ]")
+time.sleep(3)
+print ("\033[92m    Attack send!! ")
+time.sleep(3)
+print ("\033[92m    Attack send!! ")
+time.sleep(3)
+print ("\033[91m    connection timed out ")
+time.sleep(3)
+print ("\033[91m    connection timed out ")
+time.sleep(3)
+print ("\033[91m    connection timed out ")
+time.sleep(3)
